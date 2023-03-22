@@ -3,3 +3,4 @@ flagged
 images
 mlruns
 .DS_Store
+.venv
